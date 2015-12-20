@@ -1,0 +1,16 @@
+{
+  "title": "Contact Creator Bugfixes",
+  "name": "contact-creator-bugfixes",
+  "version": "0.0.1",
+  "description": "Workarounds for Contact Creator bugs",
+  "main": "index.js",
+  "author": "Tim Retout",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
